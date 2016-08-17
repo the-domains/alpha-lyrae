@@ -1,0 +1,14 @@
+layout_spectrum: 0.4367902686353773
+typography_spectrum: 0.2686417228542268
+color:
+  brandStrength: 0.5367670345585793
+  lightness: 0.8282752099912614
+  saturation: 0.717455182923004
+  rhythmicContrast: 0.9055048346053809
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: alpha lyrae
