@@ -1,16 +1,16 @@
-typography_spectrum: 0.2686417228542268
+typography_spectrum: 0.6397191167343408
 color:
-  brandStrength: 0.5367670345585793
-  lightness: 0.8282752099912614
-  saturation: 0.717455182923004
-  rhythmicContrast: 0.9055048346053809
+  brandStrength: 0.07284844596870244
+  lightness: 0.5796237688045949
+  saturation: 0.5751609150320292
+  rhythmicContrast: 0.10560497059486806
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.4367902686353773
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.4037005801219493
 name: alpha lyrae
 navigation:
   - name: portfolio
