@@ -12,4 +12,8 @@ color:
     - '#193441'
 layout_spectrum: 0.4367902686353773
 name: alpha lyrae
+navigation:
+  - name: portfolio
+    url: 'http://www.alpha-lyrae.com'
+    type: external
 title: alpha lyrae
